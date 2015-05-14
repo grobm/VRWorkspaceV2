@@ -107,10 +107,10 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/Users/grobm/Desktop/unitypackages/VRGUI 5/VRGUIExampleProject/Assets/Photon Unity Networking/Editor/PhotonNetwork/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/grobm/Desktop/unitypackages/VRGUI 5/repo/VRGUIExampleProject/Assets/Photon Unity Networking/Editor/PhotonNetwork/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="Photon3Unity3D">
- <HintPath>/Users/grobm/Desktop/unitypackages/VRGUI 5/VRGUIExampleProject/Assets/Plugins/Photon3Unity3D.dll</HintPath>
+ <HintPath>/Users/grobm/Desktop/unitypackages/VRGUI 5/repo/VRGUIExampleProject/Assets/Plugins/Photon3Unity3D.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
