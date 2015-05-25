@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Glowing Things\FunkyGlowingThingsEffect.js">
+    <Files>
+      <File FileName="Assets\VRGUIExample\Scripts\ExampleMenu.cs" Line="21" Column="1" />
+      <File FileName="Assets\VRGUIExample\Scripts\ExamplePlayerController.cs" Line="21" Column="29" />
+      <File FileName="Assets\VRGUI\Scripts\VRGUI.cs" Line="41" Column="67" />
+      <File FileName="Assets\VRGUIExample\Scripts\ExampleHUD.cs" Line="14" Column="100" />
+      <File FileName="Assets\Glowing Things\FunkyGlowingThingsEffect.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
